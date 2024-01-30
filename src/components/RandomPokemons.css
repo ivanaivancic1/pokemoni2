@@ -1,0 +1,8 @@
+.RandomPokemon h2 {
+    color: bisque;
+}
+
+.RandomPokemon img {
+    border: 1px solid bisque;
+    box-shadow: 10px 10px rgb(239, 229, 229, 0.1);
+}
